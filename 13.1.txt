@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS</title>
+	<style>
+		div{
+			width: 200px;
+			height: 50px;
+			border: 1px dotted black;
+			overflow: auto;
+		}
+	</style>
+</head>
+<body>
+	<h2>CSS Overflow</h2>
+	<p>Nilai property auto menampilkan scroll secara otomastis ketika diperlukan :</p>
+	<div>Silahkan Anda ubah isi teks ini hingga memanjang kesamping atau ke bawah.</div>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE <html>
+<html>
+<head>
+	<title>  Pseudo element</title>
+   <style>
+    p::first-line{
+			color: #ff0000;
+			font-family: courier; 
+		}
+	</style>
+</head>
+<body>
+		<p> Pseudo elemen dapat ditambahkan untuk mengelola tampilan di baris pertama pada sebuah teks. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id blandit mi. Integer non consequat odio. In sit amet tincidunt arcu. Nulla vehicula turpis egestas, ullamcorper urna nec, dapibus felis. sed faucibus condimentum magna, ac suscipit nunc molestie sit amet. Cras curcus condimentum tortor et venenatis.
+		</p>
+	</div>
+</body>
+</html>

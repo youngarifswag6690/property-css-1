@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <style type="text/css">
+		.uu {
+			margin: 10px;
+			width: 60%;
+			border: 3px solid green;
+			padding: 10xp; 
+		}
+	</style>
+	<title>16.1 Property margin: auto</title>
+</head>
+<body>
+	<h2>Element div yang dilakukan perataan tengah
+	</h2>
+	<p> Untuk menengahkan elemen block(misalnya div)secara horizontal,gunakan propety <b>'margin:auto;'</b></p>
+
+	<div class="uu">
+		<p><b>Note: </b>Propety'margin:auto' tidak dapat digunakan pada IE8, walaupun'!DOCTYPE' dideklarasikan.</p>
+		</div>
+
+</body>
+</html>

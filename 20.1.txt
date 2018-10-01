@@ -1,0 +1,26 @@
+<!DOCTYPE <html>
+<html>
+<head>
+	<title> Property opacity </title>
+   <style>
+   		div.background {
+			background-color: red;
+			border: 2px solid black; 
+		}
+		div.transbox{
+			margin : 30px;
+			background-color: blue;
+			border: 1px solid black;
+			opacity: 0.6;
+			color: white;
+		}
+		</style>
+</head>
+<body>
+		<div class="background">
+		 <div class="transbox">
+		   <p>Transparan kan?</p>
+	</div>
+	</div>
+</body>
+</html>

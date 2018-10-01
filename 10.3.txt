@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+		li{
+			display: block;
+		}
+	</style>
+</head>
+<body>
+	<p>Menampilkan list dari beberapa link sebagai level elemen block:</p>
+	<ul>
+		<li><a href="#">Home</a></li>
+		<li><a href="#">Profile</a></li>
+		<li><a href="#">Contact</a></li>
+	</ul>
+</body>
+</html>

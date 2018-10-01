@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Position static</title>
+	<style type="text/css">
+		div.static{
+			position: static;
+			border: 3px solid #73AD21;
+		}
+	</style>
+</head>
+<body>
+	<h2>Position:static;</h2>
+		<p>
+			Elemen dengan position static tidak diposisikan berdasarkan alur normal sebuah halaman web.
+		</p>
+	<div class="static">
+		Elemen div ini diset posisinya sebagai static
+	</div>
+</body>
+</html>

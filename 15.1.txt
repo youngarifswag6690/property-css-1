@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	.blok-inline{
+		display : inline-block;
+		width: 150px;
+		height: 75px;
+		margin: 10px;
+		border: 3px solid mediumseagreen;
+	}
+
+	.after-box{
+		border: 3px solid red;
+	}
+</style>
+	<title></title>
+</head>
+<body>
+	<h2 class="blok-inline">Contoh penggunaan</h2>
+	<p>Pada kasus ini, property yang digunakan adalah property <b>'display: inline-block'<b>, bukan property <b>'float: left'</b> atau <b> 'float: right'</b>. Oleh karena itu, elemen div di bawahnya tidak lagi memerlukan property <b>'clear: left'</b> atau <b>'clear: right'</b></p>
+		<div class="blok-inline">Div blok inline 1</div>
+		<div class="blok-inline">Div blok inline 2</div>
+		<div class="blok-inline">Div blok inline 3</div>
+		<div class="blok-inline">Div blok inline 4</div>
+		<div class="blok-inline">Div blok inline 6</div>
+		<div class="blok-inline">Div blok inline 7</div>
+		<div class="blok-inline">Div blok inline 8</div>
+
+		<div class="after-box">Elemen div yang ini tidak lagi menggunakan property clear.</div>
+
+</body>
+</html>
+/*<style>
+	.blok-inline{
+		display : inline-block;
+		width: 150px;
+		height: 75px;
+		margin: 10px;
+		border: 3px solid mediumseagreen;
+	}
+
+	.after-box{
+		border: 3px solid red;
+	}
+<style>
+</head>*//*
+<body>*/
+	

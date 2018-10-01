@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Warna</title>
+	<style type="text/css">
+		h3{
+			color: dodgerblue;
+		}p{
+			color: tomato;
+		}
+	</style>
+</head>
+<body>
+	<h3>Judul Paragraf</h3>
+	<P>Ini adalah paragraf yang berwarna</P>
+
+</body>
+</html>

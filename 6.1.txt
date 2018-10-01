@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Font Family</title>
+	<style type="text/css">
+		h3{
+			font-family: arial;
+		}p{
+			font-family: verdana;
+		}p{
+			font-family: "Times New Roman";
+		}
+	</style>
+</head>
+<body>
+	<h3>Property CSS font-family</h3>
+	<p class="verdana">
+		Ini adalah contoh paragraf yang ditampilkan dengan font verdana </p> <p class="roman"> awalnya menjorok ke dalam dengan menggunakan font "times new roman".</p>
+	</p>
+</body>
+</html>

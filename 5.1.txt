@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Margin dan Padding</title>
+	<style type="text/css">
+		a{
+			text-decoration: none;
+		}
+	</style>
+</head>
+<body>
+	<a href="#">Contoh anchor</a>
+</body>
+</html>

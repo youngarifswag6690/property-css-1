@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>16.2 Property float: right</title>
+</head>
+<body>
+
+<style>
+.right{
+	float: right;
+	width: 300px;
+	border: 3px solid mediumseagreen;
+	padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>Align kanan</h2>
+<p>Contoh cara agar elemen menjadi rata kanan menggunakan property <b>'float: right'</b></p>
+
+<div class="right">
+	<p>Ini adalah contoh paragraf di dalam elemen div yang diatur perataannya ke kanan menggunakan property <b>'float: right'</b></p>
+	</div>
+
+</body>
+</html>

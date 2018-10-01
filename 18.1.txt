@@ -1,0 +1,25 @@
+<!DOCTYPE <html>
+<html>
+<head>
+	<title> Tooltip hover</title>
+   <style>
+    p{
+			display: none;
+			background-color: yellow;
+			padding: 20xp; 
+
+		}
+	 div p {
+			display: block;
+
+		}
+	</style>
+</head>
+<body>
+
+	<div>
+		Hover ke sini untuk menampilkan elemen paragraf!
+		<p>Ini elemen paragraf yang disembunyikan kemudian muncul ketika ketika div di-hover</p>
+	</div>
+</body>
+</html>

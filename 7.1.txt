@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Link</title>
+<style type="text/css">
+	/*Link yang belum di-klik*/
+	a:link{
+		color: lightgray;
+	}
+	/*Link yang sudah di-klik*/
+	a:visited{
+		color: mediumseagreen;
+	}
+	/*Disorot oleh pointer mouse*/
+	a:hover{
+		color: hotpink;
+	}
+	/*Link ketika di-klik*/
+	a:active{
+		color: orange;
+	}
+</style>
+
+</head>
+<body>
+Contoh <a href="#">Link</a>
+</body>
+</html>

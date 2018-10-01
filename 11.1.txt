@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Max width</title>
+	<style type="text/css">
+			p.p1{
+				border: 1px solid;
+				max-width: 500px;
+			}
+			p.p2{
+				border: 1px solid;
+				width: 500px;
+			}
+	</style>
+</head>
+<body>
+	<p class="p1">Elemen paragraf adalah jenis elemen-level block.Selain elemen paragraf,ada juga elemn div.Keduanya dapat diatur maximum panjangnyamenggunakan max-width.
+	</p>
+	<p class="p2">Elemen paragraf adalah jenis elemen-level block.Selain elemen paragraf,ada juga elemn div.Keduanya dapat diatur maximum panjangnyaNamun,paragraf yang ini tidak diatur mengguanakan max-widht.</p>
+</body>
+</html>

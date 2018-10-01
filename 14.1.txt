@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS</title>
+	<style>
+		img{
+			float: right;
+			margin: 0;
+			width: 150px;
+			height: 150px;
+		}
+	</style>
+</head>
+<body>
+	<p>Pada contoh ini, image polindra akan menampung (float) disebelah kanan layar. sementara itu, peralatan teks akan menyesuaikan secara otomatis (wrap).</p>
+
+	<p> <img src="POLINDRA.png" alt="Polindra">Lorem ipsum dolor sit amet, consectetur adipiscing elit. phasellus imperdiet, nulla et dictum interdum
+	</p>
+</body>
+</html>

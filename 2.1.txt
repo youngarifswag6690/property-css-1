@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Backround</title>
+	<style type="text/css">
+		.bg{
+			background-image: url(Website-Design-Backround.jpg);
+			background-attachment: fixed;
+			background-repeat: no-repeat;
+
+		}
+	</style>
+</head>
+<body>
+	<h2>Judul Paragraf</h2>
+	<p>Contoh background <br></p>
+	<p>Contoh background <br></p>
+	<p>Contoh background <br></p>
+	<p>Contoh background <br></p>
+	<p>Contoh background <br></p>
+	<p>Contoh background <br></p>
+</body>
+</html>

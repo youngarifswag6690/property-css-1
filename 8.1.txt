@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Style of list</title>
+	<style type="text/css">
+		ul{
+	list-style-type: none;
+	}
+	</style>
+</head>
+<body>
+	<ul>
+		<li>List Pertama</li>
+		<li>List Kedua</li>
+		<li>List Ketiga</li>
+	</ul>
+</body>
+</html>

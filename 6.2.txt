@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Font</title>
+	<style type="text/css">
+		p{
+			font-family: verdana, "Times New Roman", roboto, serif;
+			font-style: italic;
+			font-weight: bold;
+			font-size: 20px;
+		}
+	</style>
+</head>
+<body>
+	<P>Modifikasi font</P>
+</body>
+</html>

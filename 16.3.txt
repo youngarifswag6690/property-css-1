@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>16.3 Property padding</title>
+</head>
+<body>
+<style>
+	.center{
+		padding: 70px;
+		border: 3px solid green;
+		text-align: center;
+	}
+</style>
+</head>
+<body>
+
+<h2>Menengahkan elemen teks dibagian div</h2>
+<p>Ini adalah contoh penggunaan property padding untuk<p> menengahkan konten(teks) secara vertikal dan horizontal:</p>
+
+<div class="center">
+	<p>Teks ini ditampilkan rata secara vertikal<p> dan horozontal.</p>
+	</div>
+
+</body>
+</html>

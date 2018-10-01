@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Border dan Outline</title>
+	<style type="text/css">
+		.tb{
+			/* Border */
+			border-style: solid;
+			border-width: 1px;
+			/* Outline */
+			outline-style: dashed;
+			outline-width: 1px;
+			outline-color: violet;
+		}
+	</style>
+</head>
+<body>
+	<table class="tb">
+		<tr>
+			<td class="tb">contoh border</td>
+			<td>contoh border</td>
+		</tr>
+	</table>
+
+</body>
+</html>

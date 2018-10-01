@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Margin dan Padding</title>
+	<style type="text/css">
+		table, tr, td{
+			
+			border-style: solid;
+			border-width: 1px;
+			background-color: white;
+			border-color: green;
+		}table{
+			margin: 20px;
+		}
+	</style>
+</head>
+<body>
+	<table bgcolor="lightgray">
+		<tr>
+			<td>Cell 1</td>
+			<td>Cell 2</td>
+		</tr>
+	</table>
+
+</body>
+</html>

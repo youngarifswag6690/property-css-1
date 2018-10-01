@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+	div p{
+		background-color: mediumseagreen;
+		color: white;
+	}
+</style>
+	<title>
+		Descendant Selector
+	</title>
+</head> 		
+<body>
+	<div>
+		<p>kawdjkasjdw jcajnscawdk dajnsdnajwndjas djawndjasndjawndjas djnand ajdnajsndjdwnjwnjanwdsadjawndjwdnajnwd	.</p>
+		<p>Paragraf 2 di dalam elemen div.</p>
+	</div>
+	<p>Paragraf 3 tidak didalam element div.
+	</p>
+
+</body>
+</html>

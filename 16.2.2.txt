@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>16.2 Property position: absolute</title>
+</head>
+<body>
+
+<style>
+.right{
+	pasition: absolute;
+	right: 0px;
+	width: 300px;
+	border: 3px solid #73AD21;
+	padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>Align kanan</h2>
+<p>Cara lain agar element rata ke kanan:</p>
+
+<div class="right">
+	<p>Ini adalah paragraf di dalam elemen div yang rata ke kanan (align right) menggunakan property <b>'pasition: absolute'.</b></p>
+	</div>
+</body>
+</html>
+
